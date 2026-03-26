@@ -55,6 +55,15 @@ To build and run this project:
 ▶️ 🚀 How to Build and Run
 1. Open the solution file: `projectstudent.slnx`  
 2. Click **Build → Build Solution**  
-3. Press **Ctrl + F5** to run without debugging  
+3. Press **Ctrl + F5** to run without debugging
+-----
+   📂 📁 Project Structure
+projectstudent/
+│
+├── Student.h
+├── Student.cpp
+├── main.cpp
+├── projectstudent.slnx
+└── README.md
 
 
