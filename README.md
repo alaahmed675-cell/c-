@@ -59,11 +59,24 @@ To build and run this project:
 -----
    📂 📁 Project Structure
 projectstudent/
-│
 ├── Student.h
 ├── Student.cpp
 ├── main.cpp
 ├── projectstudent.slnx
 └── README.md
+-----
 
+---
+
+👩‍💻 👨‍💻 Authors
+- ** Alaa Ahmed Fareh**  
+C++ Developer | Problem Solver  
+
+---
+
+🔮 🚀 Future Improvements
+🧮 Save and load student data to/from a file  
+⚠️ Improve input validation and error handling  
+💡 Add more search and sorting features  
+🖥 Optional GUI interface for easier interaction
 
